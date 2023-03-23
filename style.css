@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://i0.wp.com/jornal.usp.br/wp-content/uploads/2022/06/20220608_matema%CC%81tica.jpg?resize=1200%2C630&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(0, 21, 255);
+    margin: 50px;
+   margin-top: 250px;
+}
+
+
+
+
+input{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin: 15px;
+   
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    background: rgb(1, 36, 237)
+   
+}
+
+
+div{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+footer{
+    margin-top: 158px;
+    padding: 10px;
+    background-image: linear-gradient(to right, black, blue, black);
+    color: rgb(0, 0, 0);
+    font-family: fantasy
+    
+   
+}
+
+
+
+
